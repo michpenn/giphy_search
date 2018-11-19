@@ -1,0 +1,15 @@
+{
+  "main.css": "/giphy_search/static/css/main.5bf5a46e.chunk.css",
+  "main.js": "/giphy_search/static/js/main.8c3a228b.chunk.js",
+  "main.js.map": "/giphy_search/static/js/main.8c3a228b.chunk.js.map",
+  "static/css/1.9e488da8.chunk.css": "/giphy_search/static/css/1.9e488da8.chunk.css",
+  "static/js/1.a0b80bbe.chunk.js": "/giphy_search/static/js/1.a0b80bbe.chunk.js",
+  "static/js/1.a0b80bbe.chunk.js.map": "/giphy_search/static/js/1.a0b80bbe.chunk.js.map",
+  "runtime~main.js": "/giphy_search/static/js/runtime~main.0487367d.js",
+  "runtime~main.js.map": "/giphy_search/static/js/runtime~main.0487367d.js.map",
+  "static/css/1.9e488da8.chunk.css.map": "/giphy_search/static/css/1.9e488da8.chunk.css.map",
+  "static/css/main.5bf5a46e.chunk.css.map": "/giphy_search/static/css/main.5bf5a46e.chunk.css.map",
+  "index.html": "/giphy_search/index.html",
+  "precache-manifest.9e168707326721ec38faf8893217e7ca.js": "/giphy_search/precache-manifest.9e168707326721ec38faf8893217e7ca.js",
+  "service-worker.js": "/giphy_search/service-worker.js"
+}
